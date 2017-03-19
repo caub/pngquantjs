@@ -1,0 +1,30 @@
+{
+  "name": "pngquantjs",
+  "version": "1.0.0",
+  "description": "pngquant in JS using Emscripten",
+  "main": "dist/pngquant.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psych0der/pngquantjs.git"
+  },
+  "keywords": [
+    "png",
+    "pngquant",
+    "emscripten",
+    "image",
+    "img",
+    "compress",
+    "optimize"
+  ],
+  "author": "Mayank Bhola <mayankbhola@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psych0der/pngquantjs/issues"
+  },
+  "homepage": "https://github.com/psych0der/pngquantjs#readme"
+}
